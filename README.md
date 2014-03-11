@@ -15,8 +15,8 @@ A quick how to and screencast for migrating wordpress. [Screen Cast Video Downlo
 
 ### Import local database
 
-1. Create new database - youtube resource - http://www.youtube.com/watch?v=YbIn--iNmKE
-2. import local database to new database - youtube resource - http://www.youtube.com/watch?v=jW5lrS6EUPM
+1. Create new database - [youtube resource](http://www.youtube.com/watch?v=YbIn--iNmKE)
+2. import local database to new database - [youtube resource](http://www.youtube.com/watch?v=jW5lrS6EUPM)
 3. update locale host domain with live domain. [example code sql-replace.sql](sql-replace.sql)
 
 ### Connect wordpress to the database
